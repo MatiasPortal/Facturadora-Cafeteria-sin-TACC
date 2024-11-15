@@ -2,7 +2,7 @@
 
 ### Proyecto de LABORATORIO ALGORITMOS Y ESTRUCTURAS DE DATOS 1 - Facturadora para cafeteria con productos sin TACC.
 
-# Guía de instalación:
+# Guía de instalación
 
 ## Posicionarse en la pagina principal del proyecto, e ir a "Add File":
 
