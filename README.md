@@ -20,7 +20,7 @@
 
 ## Extraer carpeta contenedora a escritorio.
 
-## Entracarpeta y abrir archivo "App Facturación":
+## Entra a la carpeta y abrir archivo "App Facturación" o crear acceso directo a escritorio:
 
   
 ![{209A9D7C-2EFC-4F68-B45D-E83CA14B1D5E}](https://github.com/user-attachments/assets/b34ff0cd-a938-4530-9b7a-6a294e335676)
