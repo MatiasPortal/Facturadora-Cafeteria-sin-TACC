@@ -4,7 +4,7 @@
 
 # Guía de instalación
 
-## Posicionarse en la pagina principal del proyecto, e ir a "Add File":
+## Posicionarse en la pagina principal del proyecto, e ir a "Code":
 
 
 ![{0BC96E15-476A-4291-B7F4-5AC6245644DE}](https://github.com/user-attachments/assets/66b89e16-a44c-4944-9024-e580fc786b13)
