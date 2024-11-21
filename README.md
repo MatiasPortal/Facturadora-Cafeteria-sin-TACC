@@ -23,10 +23,11 @@
 
 ## - Extraer carpeta contenedora a escritorio.
 
-## - Entra a la carpeta y abrir archivo "App Facturación" o crear acceso directo a escritorio:
+## - Entra a la carpeta y arrastrar "Facturacion EspecialiTACC" al escritorio:
 
   
-![{209A9D7C-2EFC-4F68-B45D-E83CA14B1D5E}](https://github.com/user-attachments/assets/b34ff0cd-a938-4530-9b7a-6a294e335676)
+![{A7389971-8F1D-4C35-B48F-ABC6EEFD562F}](https://github.com/user-attachments/assets/4278244d-18e4-42b9-8694-63f3806a23c7)
+
 
 
 ## - Disfrutar de la APP! 
