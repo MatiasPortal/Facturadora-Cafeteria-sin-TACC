@@ -21,7 +21,7 @@
 
 ## - Guardar en donde desee.
 
-## - Extraer carpeta contenedora a escritorio.
+## - Mover el contenido (carpeta) del ZIP al escritorio.
 
 ## - Entra a la carpeta y arrastrar "Facturacion EspecialiTACC" al escritorio:
 
